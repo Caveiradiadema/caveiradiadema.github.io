@@ -21,16 +21,56 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- “Em breve” -->
-  <url><loc>https://caveiradiadema.github.io/verba-site/touro.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/gemeos.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/cancer.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/leao.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/virgem.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/libra.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/escorpiao.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/sagitario.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/capricornio.html</loc></url>
-  <url><loc>https://caveiradiadema.github.io/verba-site/aquario.html</loc></url>
+  <!-- “Em breve” (mantêm data de hoje) -->
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/touro.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/gemeos.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/cancer.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/leao.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/virgem.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/libra.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/escorpiao.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/sagitario.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/capricornio.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://caveiradiadema.github.io/verba-site/aquario.html</loc>
+    <lastmod>2025-07-02</lastmod>
+    <priority>0.6</priority>
+  </url>
 
 </urlset>
