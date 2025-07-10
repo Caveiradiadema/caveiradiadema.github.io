@@ -1,7 +1,3 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
-
-# sitemap da raiz
 Sitemap: https://caveiradiadema.github.io/sitemap.xml
-# sitemap que já existe na sub-pasta
-Sitemap: https://caveiradiadema.github.io/verba-site/sitemap.xml
