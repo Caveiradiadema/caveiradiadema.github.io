@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <!-- Home do domínio -->
   <url>
     <loc>https://caveiradiadema.github.io/</loc>
-    <lastmod>2025-07-03</lastmod>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,11 +12,11 @@
   <!-- Raiz da coleção VERBA -->
   <url>
     <loc>https://caveiradiadema.github.io/verba-site/</loc>
-    <lastmod>2025-07-03</lastmod>
+    <lastmod>2025-07-12</lastmod>
     <priority>0.9</priority>
   </url>
 
-  <!-- Demais páginas (uma por linha) -->
+  <!-- Páginas dos signos -->
   <url><loc>https://caveiradiadema.github.io/verba-site/aries.html</loc></url>
   <url><loc>https://caveiradiadema.github.io/verba-site/peixes.html</loc></url>
   <url><loc>https://caveiradiadema.github.io/verba-site/touro.html</loc></url>
