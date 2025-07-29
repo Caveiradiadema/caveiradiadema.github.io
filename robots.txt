@@ -1,3 +1,6 @@
-﻿User-agent: *
+# Permite o acesso de todos os robôs a todo o conteúdo
+User-agent: *
 Allow: /
+
+# Localização do Sitemap
 Sitemap: https://caveiradiadema.github.io/sitemap.xml
